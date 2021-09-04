@@ -8,4 +8,5 @@ might happen that we miss our any important mails which need to be addressed
 as soon as possible. So to overcome this in better way, this model is designed to
 create filter of ham/spam mails.
 
-![image](https://user-images.githubusercontent.com/85283934/132106181-9277bfa5-46cd-4198-8cb9-623e14e20ab9.png)
+![image](https://user-images.githubusercontent.com/85283934/132106219-902fba72-7fc3-4b65-ab30-12f9805f3d70.png)
+
